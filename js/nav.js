@@ -17,6 +17,10 @@ $(function(){
                 flag:"home",
                 href:"."
             },{
+                text:"文章",
+                flag:"article",
+                href:"article.html"
+            },{
                 text:"关于",
                 flag:"about",
                 href:"about.html"
